@@ -1,0 +1,36 @@
+html{
+    background-color:cadetblue
+    }
+body{
+    background-color:cadetblue
+}
+img{
+    border: 5px solid black;
+}
+
+h1{font-family:"Lucida Bright";
+    font-size: 30px;
+}
+h2{font-family:"Lucida Bright";
+    font-size: 28px;
+}
+
+h3{font-family:"Lucida Bright";
+    font-size: 20px;
+}
+h4{font-family: "Lucida Bright";
+    font-size: 14px;}
+h5{font-family: "Lucida Bright";
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align:justify;
+}
+
+p {font-family: "Cambria";
+    font-size:1em;
+    line-height: 1.6;
+    text-align: justify;
+}
+        
+        
